@@ -1,0 +1,25 @@
+p {
+    color: blue;
+    font-size: 23px
+}
+span {
+    color:blue;
+}
+div p span {
+    color: red;
+}
+#second_p{ /*ids for unique thing*/
+    color: darkmagenta;
+}
+.first_p { /*general*/
+    color: darkred;
+}
+.all{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
+.tables {
+    text-align: left;
+    border-color: red;
+}
